@@ -1,0 +1,13 @@
+Project:
+        Samples:
+                T01:
+                        read1 : /home/yzwang/project/001_170922_MN00561_0029_A000H23KFF/data/cleandata/R7109039/R7109039_PLSC_WBC_L001.R1.clean.fq.gz           #CON-gen
+                        read2 : /home/yzwang/project/001_170922_MN00561_0029_A000H23KFF/data/cleandata/R7109039/R7109039_PLSC_WBC_L001.R2.clean.fq.gz
+#                T02:
+#                       read1 : T03_read1_R1_001.fastq.gz            #MJ-gen
+#                        read2 : T03_read2_R2_001.fastq.gz
+
+        sample_type     : TRB   # TRB or TRA or IGH or IGL or IGK
+        output_type      : /projects/TCR_pool/03.171028_K00259_0038_AHKYJWBBXX/02.script/myFields.txt
+        mixcr           : ~/soft/mixcr/mixcr-2.1.5_new/mixcr
+        tj              : ~/project/002_170929_MN00561_0032_A000H23VTG/rawdata/tmp.pl
