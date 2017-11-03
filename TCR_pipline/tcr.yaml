@@ -8,6 +8,6 @@ Project:
 #                        read2 : T03_read2_R2_001.fastq.gz
 
         sample_type     : TRB   # TRB or TRA or IGH or IGL or IGK
-        output_type      : /projects/TCR_pool/03.171028_K00259_0038_AHKYJWBBXX/02.script/myFields.txt
+        output_type     : /home/yzwang/project/TCR_pipline/script/myFields.txt
         mixcr           : ~/soft/mixcr/mixcr-2.1.5_new/mixcr
-        tj              : ~/project/002_170929_MN00561_0032_A000H23VTG/rawdata/tmp.pl
+        tj              : /home/yzwang/project/TCR_pipline/script/tj.pl

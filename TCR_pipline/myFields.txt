@@ -1,0 +1,8 @@
+-cloneId
+-count
+-fraction
+-vHit
+-dHit
+-jHit
+-aaFeature CDR3
+
